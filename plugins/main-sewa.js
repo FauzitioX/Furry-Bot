@@ -36,7 +36,7 @@ let handler = async (m, { conn }) => {
                 "productId": "4730029423700586",
                 "jpegThumbnail": baper
             },
-            "businessOwnerJid": "6285380166282@s"
+            "businessOwnerJid": "6285380166282@s.whatsap.net"
         },
         "footerText": "https://wa.me/c/6285380166282\n\nowner number : wa.me/6285380166282"
     }
